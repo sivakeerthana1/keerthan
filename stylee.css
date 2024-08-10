@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.image{
+    background-image: url("https://media.istockphoto.com/id/1128044858/photo/digital-friendship.jpg?s=612x612&w=0&k=20&c=RZ3IFrb4oofd3mNx1Vy3JtT9DxEfEBdi2xqkqMvkJAQ=");
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    width: 100vh;
+}
+.cta-button {
+    background-color: darkgoldenrod;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.cta-button:hover {
+    background-color: darkkhaki;
+}
+.text{
+    padding-left: 4%;
+    text-align: center;
+    font-size: medium;
+    width: 30%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    width: 12px;
+    padding: 0 10vh;
+    position:fixed;
+    color:grey
+}
+.ntext{
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+    
+}
+
+.n1text{
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+
+}
+.n2text{
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+
+}
+.para{
+    
+
+    font-size: medium;
+    width: 30%;
+    display:flex;
+    flex-direction:inherit;
+    justify-content:space-around;
+    width: 12px;
+    padding: 0vh;
+    position:relative;
+    color:darkcyan;
+
+}
+.p1{
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    color:snow;
+
+}
+.button{
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+
+}
+.image2{
+    background-image: url("https://www.shutterstock.com/image-photo/human-robot-hands-pointing-globe-260nw-2412292327.jpg");
+    background-position: center;
+    background-size: cover;
+    height:90vh;
+    width:100vh;
+}
+.t{
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction:column;
+    color:darkcyan;
+
+}
+.tr{
+
+    justify-content: space-around;
+    padding: 0 5vh;
+    font-size: large;
+    display: flex;
+    flex-direction:column;
+    color:darkgray;
+}
+
+.b{
+    text-align: center;
+    padding: 12vh;
+    color: black;
+}
+.final{
+    background-color: darkgreen;
+    padding-left: 30vh;
+    justify-content: center;
+    color: wheat;
+    height: 10vh;
+    width: 100vh;
+}
+.s{
+    color: cornsilk;
+    text-decoration: underline;
+}
